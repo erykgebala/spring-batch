@@ -6,6 +6,9 @@ target/
 
 mvnw
 mvnw.cmd
+maven-wrapper.jar
+maven-wrapper.properties
+MavenWrapperDownloader.java
 
 ### STS ###
 .apt_generated
